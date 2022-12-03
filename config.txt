@@ -1,3 +1,4 @@
 Java - V18.0
 MySQL- V8.0
 OS - Windows 10.
+Log4J - V2.1.16
